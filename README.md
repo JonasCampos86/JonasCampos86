@@ -1,38 +1,49 @@
 # Hola, soy Jonás Campos 👋
 
-### Desarrollador Web Junior · Full Stack en formación
+### Desarrollador Web Junior · Frontend · Full Stack en formación
 
-Actualmente estoy cursando el **Máster en Desarrollo Web Full Stack de Conquer Blocks**, mientras desarrollo proyectos personales y académicos con los que continúo ampliando mis conocimientos de programación y desarrollo web.
+Actualmente curso el **Máster en Desarrollo Web Full Stack de Conquer Blocks** y desarrollo proyectos académicos y personales para aplicar HTML, CSS, Sass y JavaScript en interfaces web funcionales.
 
-Mi objetivo es conseguir mi primera oportunidad profesional como desarrollador junior y seguir evolucionando hacia un perfil Full Stack.
+Busco mi primera oportunidad profesional como desarrollador junior, con especial interés en frontend, maquetación responsive y JavaScript.
 
 ## 🛠️ Tecnologías y herramientas
 
-* **Desarrollo web:** HTML5 · CSS3 · Sass/SCSS · JavaScript · DOM
+* **Frontend:** HTML5 · CSS3 · Sass/SCSS · JavaScript · DOM · Responsive · Grid/Flexbox
+* **JavaScript:** eventos · clases · módulos ES6 · localStorage · JSON
 * **Programación y fundamentos:** Python · POO · principios SOLID
-* **Herramientas:** Git · GitHub · Linux/Terminal · Vite
+* **Herramientas:** Git · GitHub · Linux/Terminal · Vite · Netlify
 
 ## 🚀 Proyectos destacados
 
+### 🧠 Cromemoria
+
+Juego de memoria responsive con tablero configurable, parejas de colores generadas aleatoriamente, cronómetro y recuperación automática de la partida.
+
+La lógica está organizada en módulos y una clase que gestiona las selecciones, las coincidencias y el final de la partida. El progreso y el tiempo se conservan con localStorage. Las cartas funcionan con ratón y teclado y cuentan con nombres accesibles.
+
+**Tecnologías:** HTML5 · CSS3 · JavaScript · DOM · localStorage · Vite · Netlify
+
+[Probar Cromemoria](https://cromemoria.netlify.app/) · [Ver código](https://github.com/JonasCampos86/Ejercicios-Master-en-Desarrollo-Web-Full-Stack/tree/main/javaScript/manipulacion_dom/eventos/juego_parejas)
+
+### 🎨 Portfolio Layout
+
+Maquetación responsive de un portfolio ficticio adaptada a móvil, tablet y escritorio, con estilos organizados en módulos de Sass y distribución mediante Grid y Flexbox.
+
+**Tecnologías:** HTML5 · Sass/SCSS · Vite · Responsive · Grid/Flexbox
+
+[Ver demo](https://portfolio-layout-jonas.netlify.app/) · [Ver código](https://github.com/JonasCampos86/portfolio-layout)
+
 ### 📘 Cuaderno Digital
 
-Aplicación web personal en desarrollo creada para organizar los contenidos de mi formación y convertirlos en una herramienta de estudio navegable y progresiva.
+Aplicación web personal en desarrollo para organizar los contenidos de mi formación en una herramienta de estudio navegable.
 
-**Tecnologías:** HTML · SCSS · JavaScript · Vite · Git
+**Tecnologías:** HTML · SCSS · JavaScript · DOM · Vite · Git · Netlify
 
-[Ver repositorio](https://github.com/JonasCampos86/Cuaderno-Digital)
-
-### 🎓 E-learning Landing Page
-
-Landing page responsive desarrollada como proyecto académico durante mi formación en Conquer Blocks.
-
-**Tecnologías:** HTML · Sass/SCSS · Vite
-
-[Ver proyecto](https://github.com/JonasCampos86/Ejercicios-Master-en-Desarrollo-Web-Full-Stack/tree/main/Css_proyectos/Proyecto_06_Elearning_Landing_Page)
+[Ver demo](https://cuaderno-digital-apuntes.netlify.app/) · [Ver código](https://github.com/JonasCampos86/Cuaderno-Digital)
 
 ## 📚 Actualmente
 
-Profundizando en **JavaScript y manipulación del DOM**, mientras continúo avanzando en el Máster en Desarrollo Web Full Stack.
+Profundizando en **JavaScript, manipulación del DOM y gestión del estado en el navegador**, mientras continúo avanzando en el Máster en Desarrollo Web Full Stack.
 
 ## 📫 Contacto
 
