@@ -48,6 +48,10 @@ Estudiando **SQL y bases de datos relacionales** después de completar los módu
 
 Cuento con formación certificada en **HTML, CSS, JavaScript, TypeScript, Python, Git y GitHub**.
 
+## 📜 Certificados de formación
+
+Puedes consultar los certificados obtenidos durante mi formación en el repositorio [Formación y certificados](https://github.com/JonasCampos86/formacion-y-certificados).
+
 ## 📫 Contacto
 
 * 📧 [jonas.campos.dev@gmail.com](mailto:jonas.campos.dev@gmail.com)
