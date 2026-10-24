@@ -2,15 +2,16 @@
 
 ### Desarrollador Web Junior · Frontend · Full Stack en formación
 
-Actualmente curso el **Máster en Desarrollo Web Full Stack de Conquer Blocks** y desarrollo proyectos académicos y personales para aplicar HTML, CSS, Sass y JavaScript en interfaces web funcionales.
+Actualmente curso el **Máster en Desarrollo Web Full Stack de Conquer Blocks** y desarrollo proyectos académicos y personales para aplicar HTML, CSS, Sass, JavaScript y TypeScript en soluciones web funcionales.
 
 Busco mi primera oportunidad profesional como desarrollador junior, con especial interés en frontend, maquetación responsive y JavaScript.
 
 ## 🛠️ Tecnologías y herramientas
 
-* **Frontend:** HTML5 · CSS3 · Sass/SCSS · JavaScript · DOM · Responsive · Grid/Flexbox
-* **JavaScript:** eventos · clases · módulos ES6 · localStorage · JSON
-* **Programación y fundamentos:** Python · POO · principios SOLID
+* **Frontend:** HTML5 · CSS3 · Sass/SCSS · DOM · Responsive · Grid/Flexbox
+* **Lenguajes:** JavaScript · TypeScript · Python
+* **JavaScript y TypeScript:** eventos · clases · módulos ES6 · localStorage · JSON · tipado estático · interfaces · genéricos · utility types
+* **Programación y fundamentos:** POO · principios SOLID
 * **Herramientas:** Git · GitHub · Linux/Terminal · Vite · Netlify
 
 ## 🚀 Proyectos destacados
@@ -43,7 +44,9 @@ Aplicación web personal en desarrollo para organizar los contenidos de mi forma
 
 ## 📚 Actualmente
 
-Profundizando en **JavaScript, manipulación del DOM y gestión del estado en el navegador**, mientras continúo avanzando en el Máster en Desarrollo Web Full Stack.
+Estudiando **SQL y bases de datos relacionales** después de completar los módulos de JavaScript Avanzado y TypeScript del Máster.
+
+Cuento con formación certificada en **HTML, CSS, JavaScript, TypeScript, Python, Git y GitHub**.
 
 ## 📫 Contacto
 
